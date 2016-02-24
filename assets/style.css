@@ -23,6 +23,9 @@ h3 {
   font-size: 16px;
   margin: 10px 0 0;
 }
+p {
+  font-size: 12px;
+}
 div.panel {
   margin: 10px;
   margin-bottom: 20px;
